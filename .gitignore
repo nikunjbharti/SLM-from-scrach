@@ -1,0 +1,10 @@
+# Local Python virtual environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Training outputs
+runs/
+checkpoints/
