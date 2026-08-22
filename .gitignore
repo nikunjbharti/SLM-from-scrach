@@ -8,3 +8,6 @@ __pycache__/
 # Training outputs
 runs/
 checkpoints/
+
+# Downloaded datasets
+tinystories_100mb.jsonl
