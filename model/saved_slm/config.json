@@ -1,0 +1,8 @@
+{
+  "architecture": "SmallLanguageModel",
+  "vocab_size": 1000,
+  "context_length": 512,
+  "embedding_dim": 96,
+  "num_heads": 6,
+  "num_layers": 4
+}
